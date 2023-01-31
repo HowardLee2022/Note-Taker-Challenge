@@ -24,4 +24,4 @@ We also use heroku to deploy it into a live heroku server so that users can use 
 ![Main](/main.jpg)
 ![Page2](/main2.jpg)
 ![Add](/main3.jpg)
--Write, Save, Delete notes on application.
+- Write, Save, Delete notes on application.
