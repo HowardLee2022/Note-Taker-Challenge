@@ -21,6 +21,8 @@ We also use heroku to deploy it into a live heroku server so that users can use 
 - Delete task by clicking on garbage bin
 
 ## Features
+https://hlnotetaker.herokuapp.com/ 
+
 ![Main](/main.jpg)
 ![Page2](/main2.jpg)
 ![Add](/main3.jpg)
