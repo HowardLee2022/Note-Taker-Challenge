@@ -8,17 +8,17 @@ We also use heroku to deploy it into a live heroku server so that users can use 
 
 ## Installation 
 
--Clone files
--Install node.js
--Install Express.js
--install generate-unique-id
+- Clone files
+- Install node.js
+- Install Express.js
+- install generate-unique-id
 
 ## Usage
 
--add text to title
--add text to Detail
--click save button on top right
--Delete task by clicking on garbage bin
+- add text to title
+- add text to Detail
+ -click save button on top right
+- Delete task by clicking on garbage bin
 
 ## Features
 ![Main](/main.jpg)
